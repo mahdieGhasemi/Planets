@@ -1,3 +1,4 @@
+// swiftlint:disable all
 //
 //  PlanetsUITests.swift
 //  PlanetsUITests
